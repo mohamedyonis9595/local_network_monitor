@@ -1,0 +1,5 @@
+80:HTTP Web Traffic
+8080:Nginx Load Balancer
+6379:Redis Cache Database
+5001:Python Flask App
+22:SSH Terminal Service
